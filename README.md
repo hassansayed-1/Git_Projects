@@ -1,4 +1,4 @@
-# Git_Projects
+# Project_1
 a training group to train me 
 
-## Git_Projects Notes
+## Project_1 Notes
